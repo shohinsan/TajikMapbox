@@ -1,0 +1,408 @@
+[
+  {
+      "id": 1,
+      "district": "Asht District",
+      "region": "Sughd Province",
+      "lat": 39.625,
+      "long": 71.098
+  },
+  {
+      "id": 2,
+      "district": "Isfara District",
+      "region": "Sughd Province",
+      "lat": 40.123,
+      "long": 70.625
+  },
+  {
+      "id": 3,
+      "district": "Konibodom District",
+      "region": "Sughd Province",
+      "lat": 40.283,
+      "long": 70.442
+  },
+  {
+      "id": 4,
+      "district": "Shahriston District",
+      "region": "Sughd Province",
+      "lat": 39.967,
+      "long": 68.273
+  },
+  {
+      "id": 5,
+      "district": "Kuhistoni Mastchoh District",
+      "region": "Khatlon Province",
+      "lat": 38.552,
+      "long": 68.774
+  },
+  {
+      "id": 6,
+      "district": "Panjakent District",
+      "region": "Sughd Province",
+      "lat": 39.495,
+      "long": 67.608
+  },
+  {
+      "id": 7,
+      "district": "Spitamen District",
+      "region": "Sughd Province",
+      "lat": 39.244,
+      "long": 69.376
+  },
+  {
+      "id": 8,
+      "district": "Zafarobod District",
+      "region": "Sughd Province",
+      "lat": 39.666,
+      "long": 68.405
+  },
+  {
+      "id": 9,
+      "district": "Ghonchi District",
+      "region": "Sughd Province",
+      "lat": 38.994,
+      "long": 68.544
+  },
+  {
+      "id": 10,
+      "district": "Mastchoh District",
+      "region": "Khatlon Province",
+      "lat": 38.557,
+      "long": 68.772
+  },
+  {
+      "id": 11,
+      "district": "Ayni District",
+      "region": "Sughd Province",
+      "lat": 39.400,
+      "long": 68.544
+  },
+  {
+      "id": 12,
+      "district": "Ghafurov District",
+      "region": "Sughd Province",
+      "lat": 40.217,
+      "long": 69.336
+  },
+  {
+      "id": 13,
+      "district": "Istaravshan District",
+      "region": "Sughd Province",
+      "lat": 39.910,
+      "long": 69.007
+  },
+  {
+      "id": 14,
+      "district": "Jabbor Rasulov District",
+      "region": "Sughd Province",
+      "lat": 39.521,
+      "long": 68.889
+  },
+  {
+      "id": 15,
+      "district": "Roshtqal'a District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 38.911,
+      "long": 71.646
+  },
+  {
+      "id": 16,
+      "district": "Tojikobod District",
+      "region": "Khatlon Province",
+      "lat": 37.839,
+      "long": 68.780
+  },
+  {
+      "id": 17,
+      "district": "Nosiri Khusrav District",
+      "region": "Sughd Province",
+      "lat": 39.491,
+      "long": 67.609
+  },
+  {
+      "id": 18,
+      "district": "Murghob District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 38.167,
+      "long": 73.965
+  },
+  {
+      "id": 19,
+      "district": "Shahrtuz District",
+      "region": "Khatlon Province",
+      "lat": 37.488,
+      "long": 68.521
+  },
+  {
+      "id": 20,
+      "district": "Hisor District",
+      "region": "Khatlon Province",
+      "lat": 38.517,
+      "long": 68.570
+  },
+  {
+      "id": 21,
+      "district": "Faizobod District",
+      "region": "Khatlon Province",
+      "lat": 38.528,
+      "long": 68.533
+  },
+  {
+      "id": 22,
+      "district": "Roghun District",
+      "region": "Sughd Province",
+      "lat": 38.785,
+      "long": 69.148
+  },
+  {
+      "id": 23,
+      "district": "Muminobod District",
+      "region": "Khatlon Province",
+      "lat": 38.494,
+      "long": 68.871
+  },
+  {
+      "id": 24,
+      "district": "Varzob District",
+      "region": "Khatlon Province",
+      "lat": 38.610,
+      "long": 68.776
+  },
+  {
+      "id": 25,
+      "district": "Sarband District",
+      "region": "Khatlon Province",
+      "lat": 38.783,
+      "long": 68.950
+  },
+  {
+      "id": 26,
+      "district": "Dzhami District",
+      "region": "Khatlon Province",
+      "lat": 38.646,
+      "long": 68.760
+  },
+  {
+      "id": 27,
+      "district": "Rushon District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 37.981,
+      "long": 72.007
+  },
+  {
+      "id": 28,
+      "district": "Vakhsh District",
+      "region": "Khatlon Province",
+      "lat": 37.711,
+      "long": 68.701
+  },
+  {
+      "id": 29,
+      "district": "Tursunzoda District",
+      "region": "Khatlon Province",
+      "lat": 38.543,
+      "long": 68.844
+  },
+  {
+      "id": 30,
+      "district": "Khuroson District",
+      "region": "Khatlon Province",
+      "lat": 37.804,
+      "long": 68.717
+  },
+  {
+      "id": 31,
+      "district": "Qumsangir District",
+      "region": "Khatlon Province",
+      "lat": 38.579,
+      "long": 68.477
+  },
+  {
+      "id": 32,
+      "district": "Kulob District",
+      "region": "Khatlon Province",
+      "lat": 37.912,
+      "long": 69.782
+  },
+  {
+      "id": 33,
+      "district": "Sharinav District",
+      "region": "Khatlon Province",
+      "lat": 37.702,
+      "long": 68.612
+  },
+  {
+      "id": 34,
+      "district": "Nurobod District",
+      "region": "Khatlon Province",
+      "lat": 38.430,
+      "long": 68.816
+  },
+  {
+      "id": 35,
+      "district": "Temurmalik District",
+      "region": "Khatlon Province",
+      "lat": 37.837,
+      "long": 68.843
+  },
+  {
+      "id": 36,
+      "district": "Hamadoni District",
+      "region": "Khatlon Province",
+      "lat": 38.748,
+      "long": 68.540
+  },
+  {
+      "id": 37,
+      "district": "Shuro-obod District",
+      "region": "Khatlon Province",
+      "lat": 38.595,
+      "long": 68.904
+  },
+  {
+      "id": 38,
+      "district": "Rumi District",
+      "region": "Khatlon Province",
+      "lat": 37.229,
+      "long": 68.872
+  },
+  {
+      "id": 39,
+      "district": "Bokhtar District",
+      "region": "Khatlon Province",
+      "lat": 37.858,
+      "long": 69.518
+  },
+  {
+      "id": 40,
+      "district": "Vose' District",
+      "region": "Khatlon Province",
+      "lat": 37.217,
+      "long": 68.768
+  },
+  {
+      "id": 41,
+      "district": "Vanj District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 37.346,
+      "long": 70.736
+  },
+  {
+      "id": 42,
+      "district": "Jirgatol District",
+      "region": "Sughd Province",
+      "lat": 39.090,
+      "long": 70.058
+  },
+  {
+      "id": 43,
+      "district": "Panj District",
+      "region": "Khatlon Province",
+      "lat": 37.588,
+      "long": 68.790
+  },
+  {
+      "id": 44,
+      "district": "Norak District",
+      "region": "Khatlon Province",
+      "lat": 37.375,
+      "long": 69.669
+  },
+  {
+      "id": 45,
+      "district": "Yovon District",
+      "region": "Khatlon Province",
+      "lat": 38.314,
+      "long": 69.046
+  },
+  {
+      "id": 46,
+      "district": "Qabodiyon District",
+      "region": "Khatlon Province",
+      "lat": 37.776,
+      "long": 68.527
+  },
+  {
+      "id": 47,
+      "district": "Khovaling District",
+      "region": "Khatlon Province",
+      "lat": 37.829,
+      "long": 68.771
+  },
+  {
+      "id": 48,
+      "district": "Baljuvon District",
+      "region": "Khatlon Province",
+      "lat": 38.207,
+      "long": 69.640
+  },
+  {
+      "id": 49,
+      "district": "Jilikul District",
+      "region": "Khatlon Province",
+      "lat": 37.470,
+      "long": 68.897
+  },
+  {
+      "id": 50,
+      "district": "Danghara District",
+      "region": "Khatlon Province",
+      "lat": 38.101,
+      "long": 69.328
+  },
+  {
+      "id": 51,
+      "district": "Farkhor District",
+      "region": "Khatlon Province",
+      "lat": 37.492,
+      "long": 69.404
+  },
+  {
+      "id": 52,
+      "district": "Shughnon District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 37.497,
+      "long": 71.540
+  },
+  {
+      "id": 53,
+      "district": "Rasht District",
+      "region": "Khatlon Province",
+      "lat": 38.924,
+      "long": 69.138
+  },
+  {
+      "id": 54,
+      "district": "Darvoz District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 38.330,
+      "long": 71.407
+  },
+  {
+      "id": 55,
+      "district": "Vahdat District",
+      "region": "Khatlon Province",
+      "lat": 38.574,
+      "long": 69.441
+  },
+  {
+      "id": 56,
+      "district": "Ishkoshim District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 36.731,
+      "long": 71.887
+  },
+  {
+      "id": 57,
+      "district": "Tavildara District",
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "lat": 39.060,
+      "long": 70.290
+  },
+  {
+      "id": 58,
+      "district": "Rudaki District",
+      "region": "Khatlon Province",
+      "lat": 38.716,
+      "long": 68.759
+  }
+]

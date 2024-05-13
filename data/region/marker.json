@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "region": "Gorno-Badakhshan Autonomous Province",
+      "district": "Khorugh",
+      "lat": 37.49,
+      "long": 71.57
+    },
+    {
+      "id": 2,
+      "region": "Sughd Province",
+      "district": "Khujand",
+      "lat": 40.29,
+      "long": 69.63
+    },
+    {
+      "id": 3,
+      "region": "Khatlon Province",
+      "district": "Qurghonteppa",
+      "lat": 37.80,
+      "long": 68.78
+    },
+    {
+      "id": 4,
+      "region": "Districts of Republican Subordination",
+      "district": "Dushanbe",
+      "lat": 38.56,
+      "long": 68.77
+    }
+]
